@@ -90,7 +90,7 @@ Para solucionar el error debemos entrar en "localhost:8081" para entrar en phpMy
 
 ![image](https://user-images.githubusercontent.com/101186662/173091136-9acfbf8a-e46a-4186-a23d-92f493ef9840.png)
 
-El inicio de sesisón se saca de aquí.
+El inicio de sesisón se saca de aquí (Es el archivo "docker-compose.yml").
 
 ![image](https://user-images.githubusercontent.com/101186662/173091077-2d370d16-2157-45f0-b2f5-745b911349e1.png)
 
