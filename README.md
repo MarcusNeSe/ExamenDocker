@@ -145,3 +145,15 @@ Una vez hecha está vamos a hacer las otras dos. Con `docker push marcsnese/phpm
 ![image](https://user-images.githubusercontent.com/101186662/173111414-ebfd3e33-c32d-4ff3-9ca3-9958d7207068.png)
 
 ![image](https://user-images.githubusercontent.com/101186662/173111534-41bef946-34eb-44bc-b02e-0372fb3d392c.png)
+
+Si vamos a nuestra cuenta de DockerHub podremos ver que tenemos los push ahí.
+
+![image](https://user-images.githubusercontent.com/101186662/173112118-6ce84cac-1ecd-47f1-8fb4-4106da89889e.png)
+
+Pongo aquí los links para poder hacer el pull de los contenedores.
+
+Tomcat: https://hub.docker.com/r/marcsnese/tomcat
+
+MySQL: https://hub.docker.com/r/marcsnese/mysql
+
+phpMyAdmin: https://hub.docker.com/r/marcsnese/phpmyadmin
